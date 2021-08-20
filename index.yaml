@@ -9,6 +9,6 @@ entries:
     name: chart-helm
     type: application
     urls:
-    - https://github.com/tejaswimankala/helm-boa-repo/chart-helm-0.1.0.tgz
+    - https://github.com/tejaswimankala/helm-boa-repo/tree/main/apts-helm/chart-helm-0.1.0.tgz
     version: 0.1.0
 generated: "2021-08-19T11:33:00.072417877Z"
